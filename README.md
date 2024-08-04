@@ -17,6 +17,6 @@ We tested several classification models to train and test our dataset:
 - **Bernoulli Naive Bayes** 🧑‍🔬
 - **K-Neighbors Classifier** 🤝
 
-Feel free to check out the [repo files]() for more details on the implementation and results!
+Feel free to check out the [repo files](https://github.com/git-shashank-hp/Sentiment-Analisys/tree/main) for more details on the implementation and results!
 
 Happy analyzing! 🚀
