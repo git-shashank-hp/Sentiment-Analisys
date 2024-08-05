@@ -1,6 +1,5 @@
 # 🎵 Sentiment Analysis Classifier with Machine Learning Models
-
-Welcome to this mini project focused on sentiment analysis of Amazon reviews for musical instruments! As someone passionate about Natural Language Processing (NLP), I believe that sentiment analysis can greatly influence business development. By analyzing sentiments in customer reviews, businesses can gain crucial insights into customer perceptions and preferences. This, in turn, can drive strategic decisions and enhance customer satisfaction.
+**Welcome to this mini project focused on sentiment analysis of Amazon reviews for musical instruments! As someone passionate about Natural Language Processing (NLP), I believe that sentiment analysis can greatly influence business development. By analyzing sentiments in customer reviews, businesses can gain crucial insights into customer perceptions and preferences. This, in turn, can drive strategic decisions and enhance customer satisfaction.**
 
 ## 🕵️‍♂️ Exploratory Data Analysis (EDA)
 
